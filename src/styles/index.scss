@@ -11,3 +11,25 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+body{
+    margin:0;
+}
+.card{
+    margin-bottom: 30px;
+}
+.jumbotron{
+    margin-top:30px;
+}
+.centro{
+    margin: 0 auto;
+}
+/*.contenedor-imagen{
+	position: relative;
+	left: 390px;
+	bottom:100px;
+}*/
+
+img{
+	height: 200px;
+}
